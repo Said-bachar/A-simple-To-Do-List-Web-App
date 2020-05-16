@@ -1,6 +1,7 @@
-#Simple To Do List
-##To-do
-A simple to-do list web App based on Javascript with HTML and CSS. 
+# Simple To Do List
+## To-do
+
+### A simple to-do list web App based on Javascript with HTML and CSS. 
 -----
 * Libraries used :
   * jQuery
